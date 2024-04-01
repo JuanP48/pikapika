@@ -1,0 +1,10 @@
+.carrusel{
+    border: 4px solid black;
+    height: 125px;
+    width: 125px;
+    display: none;
+}
+
+#sin{
+    display: none;
+}
